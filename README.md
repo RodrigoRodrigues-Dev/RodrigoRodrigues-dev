@@ -7,7 +7,8 @@
 <br/>
 <br/>
 
-## Use To Code
+### Use To Code
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height="1" />
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -23,7 +24,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
-<hr/>
+
 <br/>
 
 <p align="center">
