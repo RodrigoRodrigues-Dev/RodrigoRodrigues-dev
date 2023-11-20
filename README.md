@@ -3,12 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8854d0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rodrigo+Rodrigues;I'm+19+years+old;I+am+from+Brazil;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
-<br/>
 
-### Use To Code
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height="1" />
-<br/>
-<br/>
+# Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -23,6 +19,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height="1" />
 <br/>
 
 <br/>
