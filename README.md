@@ -20,7 +20,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height="1" />
 <br/>
 <br/>
 
