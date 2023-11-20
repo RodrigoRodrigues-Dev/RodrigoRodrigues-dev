@@ -28,7 +28,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoRodrigues-dev&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height="1" />
 
 <p align="center">
   <a href="https://github.com/RodrigoRodrigues-dev">
