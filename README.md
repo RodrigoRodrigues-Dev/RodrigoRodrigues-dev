@@ -4,15 +4,6 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
-
-</h3>
-
-
-<br/>
-
-</p>
-
 <br/>
 <br/>
 
