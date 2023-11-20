@@ -41,5 +41,5 @@
   <br/>
 </a>
 
-[![Rodrigo Rodrigues Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoRodrigues-dev&bg_color=0d1117&color=7f3fbf&line=7f3fbf&point=7f3fbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rodrigo Rodrigues Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoRodrigues-dev&bg_color=0d1117&color=7f3fbf&line=7f3fbf&point=7f3fbf&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
